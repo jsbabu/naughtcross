@@ -11,6 +11,7 @@ Method : POST
 URL - {base-url}/rest/noughtcross/game/new
 
 Input MIME Type : application/json
+
 Output MIME Type: application/json
 
 Input Content format example -
