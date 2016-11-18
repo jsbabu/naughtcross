@@ -1,7 +1,7 @@
-# Naught and Cross Game - Restful Webservice Implementation
+# Nought and Cross Game - Restful Webservice Implementation
 
 
-Please find below the Rest Url for the Naught and Cross Game
+Please find below the Rest Url for the Nought and Cross Game
 
 
 # To create new game
