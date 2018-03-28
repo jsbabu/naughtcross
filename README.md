@@ -6,7 +6,7 @@ Please find below the Rest Url for the Nought and Cross Game
 
 # To create new game
 
-Method : POST 
+```Method : POST 
 
 URL - {base-url}/rest/noughtcross/game/new
 
@@ -21,7 +21,7 @@ Input Content format example -
 
 Output Reponse content example-
 
- {"id":1,"crossplayer:123,"noughtplayer:321"}
+ {"id":1,"crossplayer:123,"noughtplayer:321"}```
 
 
 # To get status of the game 
